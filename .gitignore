@@ -1,0 +1,5 @@
+shots/
+server.log
+server.err
+__pycache__/
+.venv/
